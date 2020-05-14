@@ -6,3 +6,5 @@ It's the next step from Scratch to get users ready for the big world of text pro
 Parallel2 is completely open source, anyone can suggest ideas or contribute simply through a remix!
 ## Founders
 Parallel2 was founded by ContourLines (geographix) and Qucchia who are both former members of the Parallel1 project.
+## Inspiration
+Parallel2 and Parallel1 were both inspired by another language called Proli, and most of the commands are inspired by Python.
