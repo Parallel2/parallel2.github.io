@@ -6,7 +6,7 @@ ul {
 	list-style-type: none;
 	padding: 0;
 	overflow: hidden;
-	background-color: #f54242;
+	background-color: #a32222;
 }
 
 li { float: left; }
@@ -35,5 +35,4 @@ li a:hover:not(.active) { background-color: #b83232; }
 
 li img {
 	margin: 9px;
-	background-color: #a32222;
 }
