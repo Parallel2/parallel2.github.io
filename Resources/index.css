@@ -34,7 +34,7 @@ li a:hover:not(.active) { background-color: #b83232; }
 	color: #f54242;
 }
 
-.logo {
+li img {
 	margin: 10px;
 	background-color: white;
 }
