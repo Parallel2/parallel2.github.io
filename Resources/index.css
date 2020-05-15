@@ -1,3 +1,29 @@
-body {
+main {
 	margin: 25px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 15px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4287f5;
+}
+
+li { float: left; }
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover { text-decoration: none; }
+
+li a:hover.active { color: white; }
+
+li a:hover:not(.active) { background-color: #3671d1; }
+
+.active { background-color: #265094; }
