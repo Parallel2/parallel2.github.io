@@ -20,7 +20,10 @@ li a {
 	text-decoration: none;
 }
 
-li a:hover { text-decoration: none; }
+li a:hover {
+	text-decoration: none;
+	color: white;
+}
 
 li a:hover.active { color: white; }
 
