@@ -26,7 +26,7 @@ li a:hover {
 
 li a:hover.active { color: #8c881b; }
 
-li a:hover:not(.active) { background-color: #b83232; }
+li a:hover:not(.active) { background-color: #ff3838; }
 
 .active {
 	background-color: #fff830;
@@ -34,5 +34,5 @@ li a:hover:not(.active) { background-color: #b83232; }
 }
 
 li img {
-	margin: 9px;
+	margin: 2px;
 }
