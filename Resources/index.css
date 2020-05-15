@@ -7,7 +7,7 @@ ul {
   margin: 15px;
   padding: 0;
   overflow: hidden;
-  background-color: #4287f5;
+  background-color: #f54242;
 }
 
 li { float: left; }
@@ -24,6 +24,6 @@ li a:hover { text-decoration: none; }
 
 li a:hover.active { color: white; }
 
-li a:hover:not(.active) { background-color: #3671d1; }
+li a:hover:not(.active) { background-color: #b83232; }
 
-.active { background-color: #265094; }
+.active { background-color: #fff830; }
