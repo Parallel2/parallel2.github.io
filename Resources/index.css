@@ -33,3 +33,8 @@ li a:hover:not(.active) { background-color: #b83232; }
 	background-color: #fff830;
 	color: #f54242;
 }
+
+.logo {
+	margin: 10px;
+	background-color: white;
+}
