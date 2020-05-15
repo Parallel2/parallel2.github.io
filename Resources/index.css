@@ -33,6 +33,6 @@ li a:hover:not(.active) { background-color: #ff3838; }
 	color: #8c881b;
 }
 
-li img {
-	margin: 2px;
+li img a:hover {
+	background-color: #8c881b;
 }
